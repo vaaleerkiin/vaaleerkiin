@@ -15,6 +15,7 @@
 <p align="left">
   ✨ Creating bugs since 2022<br />🤷‍♂️ I'm learning now, so don't judge me
   harshly.<br />📫 How to reach me,
+  <strong>
   <a
     href="mailto:tahaburrent@gmail.com"
     target="_blank"
@@ -28,6 +29,7 @@
     rel="noopener noreferrer"
     >Instagram</a
   >
+  </strong>
 </p>
 
 ###
