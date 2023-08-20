@@ -15,7 +15,13 @@
 <p align="left">
   ✨ Creating bugs since 2022<br />🤷‍♂️ I'm learning now, so don't judge me
   harshly.<br />📫 How to reach me,
-  <a href="mailto:tahaburrent@gmail.com">tahaburrent@gmail.com</a> |
+  <a
+    href="mailto:tahaburrent@gmail.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    >tahaburrent@gmail.com</a
+  >
+  |
   <a
     href="https://www.instagram.com/_.come_as_you_are._/"
     target="_blank"
