@@ -148,10 +148,6 @@
 
 ###
 
-<h2></h2>
-
-###
-
 <div align="center">
   <a
     href="https://www.linkedin.com/in/valera-kamelkov-884710268/"
