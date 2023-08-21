@@ -120,6 +120,10 @@
 
 ###
 
+<h2></h2>
+
+###
+
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=vaaleerkiin&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true"
@@ -141,6 +145,10 @@
     src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"
   />
 </div>
+
+###
+
+<h2></h2>
 
 ###
 
