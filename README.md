@@ -12,7 +12,7 @@
   </p>
 
   <h2 align="center">About me</h2>
-  <h1 align="center"></h1>
+
   <p align="left">
     ✨ Creating bugs since 2022<br />🤷‍♂️ I'm learning now, so don't judge me
     harshly.<br />📫 How to reach me,
@@ -34,7 +34,7 @@
   </p>
 
   <h2 align="center">I code with</h2>
-  <h1 align="center"></h1>
+
   <div align="center">
     <img
       src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript"
