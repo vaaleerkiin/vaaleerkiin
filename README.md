@@ -92,7 +92,7 @@
       alt="sass logo"
     />
     <img
-      src="https://img.shields.io/badge/-GIT-white?style=flat-square&logo=git"
+      src="https://img.shields.io/badge/-git-white?style=flat-square&logo=git"
       height="40"
       alt="git logo"
     />
