@@ -131,7 +131,7 @@
 
   <div align="center">
     <a
-      href="https://www.linkedin.com/in/valera-kamelkov-884710268/"
+      href="https://www.linkedin.com/in/vaaleerkiin/"
       target="_blank"
     >
       <img
