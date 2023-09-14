@@ -37,67 +37,67 @@
 
   <div align="center">
     <img
-      src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript"
+      src="https://skillicons.dev/icons?i=js"
       height="40"
       alt="javascript logo"
     />
     <img
-      src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript"
+      src="https://skillicons.dev/icons?i=ts"
       height="40"
       alt="typescript logo"
     />
     <img
-      src="https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react"
+      src="https://skillicons.dev/icons?i=react"
       height="40"
       alt="react logo"
     />
     <img
-      src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"
+      src="https://skillicons.dev/icons?i=nextjs"
       height="40"
       alt="nextjs logo"
     />
     <img
-      src="https://img.shields.io/badge/-Redux-311C87?style=flat-square&logo=redux"
+      src="https://skillicons.dev/icons?i=redux"
       height="40"
       alt="redux logo"
     />
     <img
-      src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"
+      src="https://skillicons.dev/icons?i=nodejs"
       height="40"
       alt="nodejs logo"
     />
     <img
-      src="https://img.shields.io/badge/-express.js-white?style=flat-square&logo=express&logoColor=black"
+      src="https://skillicons.dev/icons?i=express"
       height="40"
       alt="express logo"
     />
     <img
-      src="https://img.shields.io/badge/-MongoDB-082532?style=flat-square&logo=mongodb"
+      src="https://skillicons.dev/icons?i=mongodb"
       height="40"
       alt="mongodb logo"
     />
     <img
-      src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
+      src="https://skillicons.dev/icons?i=html"
       height="40"
       alt="html5 logo"
     />
     <img
-      src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"
+      src="https://skillicons.dev/icons?i=css"
       height="40"
       alt="css3 logo"
     />
     <img
-      src="https://img.shields.io/badge/-SASS-082532?style=flat-square&logo=sass"
+      src="https://skillicons.dev/icons?i=sass"
       height="40"
       alt="sass logo"
     />
     <img
-      src="https://img.shields.io/badge/-GIT-white?style=flat-square&logo=git"
+      src="https://skillicons.dev/icons?i=git"
       height="40"
       alt="git logo"
     />
     <img
-      src="https://img.shields.io/badge/-github-55307E?style=flat-square&logo=github"
+      src="https://skillicons.dev/icons?i=github"
       height="40"
       alt="github logo"
     />
