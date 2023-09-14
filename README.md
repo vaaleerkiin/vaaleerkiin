@@ -8,13 +8,13 @@
   </div>
 
   <p align="center">
-    My name is Valera, and I'm a Full-stack developer from Ukraine
+    Hi, My name is Valera, and I'm a Full-stack developer and audio engineer from Ukraine.
   </p>
 
   <h2 align="center">About me</h2>
 
   <p align="left">
-    ✨ Creating bugs since 2022<br />🤷‍♂️ I'm learning now, so don't judge me
+    ✨ Creating bugs since 2022.<br />🤷‍♂️ I'm learning now, so don't judge me
     harshly.<br />📫 How to reach me,
     <strong>
       <a
