@@ -37,7 +37,7 @@
 
   <div align="center">
     <img
-      src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript"
+      src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"
       height="40"
       alt="javascript logo"
     />
