@@ -87,7 +87,7 @@
       alt="css3 logo"
     />
     <img
-      src="https://img.shields.io/badge/-SASS-082532?style=flat-square&logo=sass"
+      src="https://img.shields.io/badge/-Sass-082532?style=flat-square&logo=sass"
       height="40"
       alt="sass logo"
     />
