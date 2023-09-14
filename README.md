@@ -62,7 +62,7 @@
       alt="redux logo"
     />
     <img
-      src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js"
+      src="https://img.shields.io/badge/-Node.js-353535?style=flat-square&logo=node.js"
       height="40"
       alt="nodejs logo"
     />
@@ -97,7 +97,7 @@
       alt="git logo"
     />
     <img
-      src="https://img.shields.io/badge/-github-55307E?style=flat-square&logo=github"
+      src="https://img.shields.io/badge/-github-0D1117?style=flat-square&logo=github"
       height="40"
       alt="github logo"
     />
