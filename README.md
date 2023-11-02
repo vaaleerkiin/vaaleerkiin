@@ -14,7 +14,7 @@
 
   <h2 align="center">About me</h2>
 
-  <p align="left">
+  <p align="center">
     ✨ Creating bugs since 2022.<br />🤷‍♂️ I'm learning now, so don't judge me
     harshly.<br />📫 How to reach me,
     <strong>
@@ -96,7 +96,7 @@
     />
   </div>
 
-  <h1 align="center"></h1>
+  <h5 align="center"></h5>
 
   <div align="center">
     <img
