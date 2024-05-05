@@ -114,10 +114,6 @@
   <div align="center">
     <img
       height="200"
-      src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"
-    />
-    <img
-      height="200"
       src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif"
     />
   </div>
