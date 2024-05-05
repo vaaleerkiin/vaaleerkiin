@@ -119,6 +119,13 @@
   </div>
 
   <div align="center">
+    <audio autoplay controls>
+      <source src="TheSpins.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>  
+  </div> 
+
+  <div align="center">
     <a href="https://www.linkedin.com/in/vaaleerkiin/" target="_blank">
       <img
         src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
