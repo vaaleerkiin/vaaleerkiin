@@ -26,7 +26,7 @@
       >
       |
       <a
-        href="https://www.instagram.com/_.come_as_you_are._/"
+        href="https://www.instagram.com/vaaleerkiin"
         target="_blank"
         rel="noopener noreferrer"
         >Instagram</a
