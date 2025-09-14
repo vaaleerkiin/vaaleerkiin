@@ -154,8 +154,4 @@
       />
     </a>
   </div>
-
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/vaaleerkiin/count.svg?" />
-  </div>
 </div>
